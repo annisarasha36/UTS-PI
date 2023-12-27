@@ -51,6 +51,22 @@ Driver | Melihat alamat pelanggan berada | Melihat dimana alamat pelanggan berad
 - Framework     : Node.js(Express.js)
 - Database      : SQLite
 ## 6. Desain UI/UX
+Home Page
+
+![HomePage](https://github.com/annisarasha36/UTS-PI/blob/main/Desain%20UI/1.png)
+
+QFood Page
+
+![QFood](https://github.com/annisarasha36/UTS-PI/blob/main/Desain%20UI/2.png)
+
+QRide & QCar
+
+![QRideQCar](https://github.com/annisarasha36/UTS-PI/blob/main/Desain%20UI/3.png)
+
+QClean
+
+![QClean](https://github.com/annisarasha36/UTS-PI/blob/main/Desain%20UI/4.png)
+
 ## 7. Demonstrasi Produk dalam Bentuk Video dan URL Source Code
 link video
 ## 8. Bagaimana Mesin Komputasi dan Sistem Operasi Berperan pada Produk Ini
