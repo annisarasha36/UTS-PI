@@ -40,7 +40,9 @@ Driver | Menerima orderan | Dapat memilih orderan mana yang ingin diterima | ⭐
 Driver | Membatalkan pesanan | Dapat membatalkan pesanan dari kesepakatan dua pihak | ⭐⭐⭐⭐
 Driver | Melihat alamat pelanggan berada | Melihat dimana alamat pelanggan berada | ⭐⭐⭐⭐
 ## 3. Struktur Data
+![Flowchart Struktur Data](https://github.com/annisarasha36/UTS-PI/blob/main/FlowchartQjek.png)
 ## 4. Arsitektur Sistem
+![Flowchart Arsitektur Sistem](https://github.com/annisarasha36/UTS-PI/blob/main/ArsitekturSistem.png)
 ## 5. Teknologi, Library, dan Framework
 - UI/UX Design  : Canva
 - Web Server    : Node.js
