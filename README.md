@@ -59,11 +59,11 @@ QFood Page
 
 ![QFood](https://github.com/annisarasha36/UTS-PI/blob/main/Desain%20UI/2.png)
 
-QRide & QCar
+QRide & QCar Page
 
 ![QRideQCar](https://github.com/annisarasha36/UTS-PI/blob/main/Desain%20UI/3.png)
 
-QClean
+QClean Page
 
 ![QClean](https://github.com/annisarasha36/UTS-PI/blob/main/Desain%20UI/4.png)
 
