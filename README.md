@@ -68,7 +68,7 @@ QClean Page
 ![QClean](https://github.com/annisarasha36/UTS-PI/blob/main/Desain%20UI/4.png)
 
 ## 7. Demonstrasi Produk dalam Bentuk Video dan URL Source Code
-link video
+https://youtu.be/eN1pARzh57A?si=VZSf1RutPlA29kXI
 ## 8. Bagaimana Mesin Komputasi dan Sistem Operasi Berperan pada Produk Ini
 **Mesin Komputasi:**
 - **Server Backend:** Mesin komputasi digunakan untuk menjalankan server backend aplikasi. Server ini bertanggung jawab atas logika aplikasi, seperti manajemen pengguna, pengolahan pesanan, dan interaksi dengan database.
